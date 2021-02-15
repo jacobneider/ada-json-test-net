@@ -1,7 +1,7 @@
 {
-"name": "adatestpool",
-"description": "This is only a test for stake pool school",
-"ticker": "CHEAP",
-“homepage”: “https://teststakepool.com”,
-“extended”: “https://teststakepool.com/ext_metadata.json”
+   "name": "adatestpool",
+   "description": "This is only a test for stake pool school",
+   "ticker": "CHEAP",
+   "homepage": "https://www.teststakepool.com",
+   "extended": "https://www.teststakepool.com/ext_metadata.json"
 }
